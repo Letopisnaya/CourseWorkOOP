@@ -1,0 +1,161 @@
+[{
+        "id": "109792373",
+        "premium": false,
+        "name": "React Front-End Developer (Frontend разработчик)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2759",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-10-31T19:51:37+0300",
+        "created_at": "2024-10-31T19:51:37+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109792373",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/109792373?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/109792373",
+        "relations": [],
+        "employer": {
+            "id": "11566922",
+            "name": "VISSEN CA",
+            "url": "https://api.hh.ru/employers/11566922",
+            "alternate_url": "https://hh.ru/employer/11566922",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/7025775.png",
+                "90": "https://img.hhcdn.ru/employer-logo/7025774.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1351461.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11566922",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Базовые знания HTML / CSS / JavaScript. React / React Native. English (на уровне понимания технических текстов). Русский язык (для общения). ",
+            "responsibility": "Основы Front-End разработки."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "109570768",
+        "premium": false,
+        "name": "Фронтенд разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2759",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "salary": {
+            "from": 200000,
+            "to": 0,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Ташкент",
+            "street": "улица Ходжент",
+            "building": "2",
+            "lat": 41.30477,
+            "lng": 69.263001,
+            "description": null,
+            "raw": "Ташкент, улица Ходжент, 2",
+            "metro": null,
+            "metro_stations": [],
+            "id": "14870798"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-10-29T18:01:49+0300",
+        "created_at": "2024-10-29T18:01:49+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109570768",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/109570768?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/109570768",
+        "relations": [],
+        "employer": {
+            "id": "10435209",
+            "name": "YANO EDUCATION",
+            "url": "https://api.hh.ru/employers/10435209",
+            "alternate_url": "https://hh.ru/employer/10435209",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10435209",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Знания HTML, CSS, JS, Jquery.",
+            "responsibility": "Адаптивная верстка проектов. Поддержка сайтов."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    }]
