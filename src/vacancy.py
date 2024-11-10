@@ -1,12 +1,9 @@
 class Vacancy:
     """класс для работы с вакансиями"""
-    name: str
-    data_base: str
-    salary: int
-    city: str
-    result: list
+    __slots__ = ('name', 'city', 'salary', 'result', 'data_base_hh')
 
-    def __init__(self, name, salary, city, data_base, result):
+
+    def __init__(self, name, salary, city, result, data_base):
         """инициализатор класса vacancy"""
         self.name = name
         self.salary = salary
